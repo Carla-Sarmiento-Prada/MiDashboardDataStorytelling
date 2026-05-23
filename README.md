@@ -1,4 +1,4 @@
-# 🏫 Dashboard - Reporte de Instituciones Educativas del Perú
+# Dashboard - Reporte de Instituciones Educativas del Perú
 
 > Herramienta interactiva de visualización de datos educativos, basada en información oficial del **Ministerio de Educación del Perú (MINEDU)**, pensada para apoyar a los **padres de familia** en la búsqueda y comparación de colegios a nivel nacional.
 
