@@ -12,11 +12,11 @@ Los datos utilizados provienen de fuentes oficiales del **Ministerio de Educaci�
 ---
 ## 📊 Vista del Dashboard
 
-(img/app1.png)
-(img/app2.png)
-(img/app3.png)
-(img/app4.png)
-(img/app5.png)
+(app1.png)
+(app2.png)
+(app3.png)
+(app4.png)
+(app5.png)
 
 ---
 ## 🔍 ¿Qué información puedes encontrar?
